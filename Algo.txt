@@ -1,5 +1,6 @@
 1. Decide which type of pizza you want
 2. Determine where to order your pizza of choice from
+3. call pizza shoppe or go to their website
 3. Place order for pizza
 4. travel to pizza shoppe
 5. conduct exchange of monetary goods or services for the pizza
