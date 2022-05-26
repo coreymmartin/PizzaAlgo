@@ -1,5 +1,7 @@
 1. Decide which type of pizza you want
 2. Determine where to order your pizza of choice from
 3. Place order for pizza
-4. obtain pizza 
-5. eat pizza
+4. travel to pizza shoppe
+5. conduct exchange of monetary goods or services for the pizza
+6. travel home 
+7. eat pizza
